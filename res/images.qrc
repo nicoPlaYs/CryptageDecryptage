@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/app.ico</file>
+        <file>images/menu/aide/uvsq.png</file>
+        <file>images/menu/aide/apropos.ico</file>
+        <file>images/menu/fichier/charger.ico</file>
+        <file>images/menu/fichier/enregistrer.ico</file>
+        <file>images/menu/fichier/quitter.ico</file>
+        <file>images/texte/texte.ico</file>
+        <file>images/texte/crypter.ico</file>
+        <file>images/texte/decrypter.ico</file>
+        <file>images/arbre/arbre.ico</file>
+        <file>images/arbre/echanger.ico</file>
+        <file>images/arbre/editer.ico</file>
+        <file>images/arbre/ajouterfeuille.ico</file>
+        <file>images/arbre/ajouternoeud.ico</file>
+        <file>images/arbre/zoom-.ico</file>
+        <file>images/arbre/zoom+.ico</file>
+        <file>images/arbre/supprimerSousArbre.ico</file>
+        <file>images/arbre/supprimerFeuilleNoeud.ico</file>
+        <file>images/arbre/zoomReset.ico</file>
+    </qresource>
+</RCC>
